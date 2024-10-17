@@ -69,6 +69,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/emunozce/emunozce/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/emunozce/emunozce/assets/snake.svg" alt="Snake animation" />
 
 ###
