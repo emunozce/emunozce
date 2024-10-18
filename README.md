@@ -15,109 +15,59 @@
 ###
 
 <div align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <a href="https://azure.microsoft.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="12" />
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <a href="https://www.docker.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <a href="https://www.linux.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <a href="https://fastapi.tiangolo.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <a href="https://www.djangoproject.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
-  <a href="https://dotnet.microsoft.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <a href="https://react.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <a href="https://vuejs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
   <img width="12" />
-  <a href="https://angular.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <a href="https://vitejs.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
-  <a href="https://isocpp.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
   <img width="12" />
-  <a href="https://www.sqlite.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <a href="https://www.mongodb.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
 ###
