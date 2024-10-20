@@ -1,61 +1,41 @@
-<h2 align="center">Socials 📱</h2>
+# Welcome to my GitHub profile! 👋
 
-###
+## Socials 📱
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/emunozce/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+[![linkedin logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/emunozce/)
 
-###
+## Tech Stack 💻
 
-<h2 align="center">Tech Stack 💻</h2>
+[![Amazon Web Services logo](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![Azure logo](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
+[![Kubernetes logo](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
+[![Docker logo](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Linux logo](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![Python logo](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![FastAPI logo](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![Django logo](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![C# logo](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![.NET logo](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
+[![JavaScript logo](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript logo](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![React logo](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Vue.js logo](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![Tailwind CSS logo](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Node.js logo](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Java logo](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
+[![Amazon DynamoDB logo](https://skillicons.dev/icons?i=dynamodb)](https://aws.amazon.com/dynamodb/)
+[![MongoDB logo](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![SQLite logo](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/)
+[![MySQL logo](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Git logo](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
+## Stats 📊
 
+[![stats graph](https://github-readme-stats.vercel.app/api?username=emunozce&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1)](https://github.com/emunozce)
+[![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=emunozce&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2)](https://github.com/emunozce)
 
-<h2 align="center">Stats 📊</h2>
+## Recently played 🎶
 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=riljvn43h9v2irxpgffe9j909&count=5&unique=true)](https://open.spotify.com/user/riljvn43h9v2irxpgffe9j909)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emunozce&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emunozce&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-<h2 align="center">Recently played 🎶</h2>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/riljvn43h9v2irxpgffe9j909">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=riljvn43h9v2irxpgffe9j909&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-<div align="center">
-    <a href="https://emunozce.github.io/emunozce/">
-      <img src="https://github.com/emunozce/emunozce/blob/main/assets/snake.svg" alt="snake">
-    </a>
-</div>
+[![snake](https://github.com/emunozce/emunozce/blob/main/assets/snake.svg)](https://github.com/emunozce)
