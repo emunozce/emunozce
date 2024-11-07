@@ -1,5 +1,3 @@
-# Welcome to my GitHub profile! 👋
-
 ## Socials 📱
 
 [![linkedin logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/emunozce/)
