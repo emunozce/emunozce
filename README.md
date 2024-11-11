@@ -1,3 +1,5 @@
+[![snake](https://github.com/emunozce/emunozce/blob/main/assets/snake.svg)](https://github.com/emunozce)
+
 ## Socials 📱
 
 [![linkedin logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/emunozce/)
@@ -11,20 +13,16 @@
 [![Linux logo](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Python logo](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![FastAPI logo](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
-[![Django logo](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![C# logo](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET logo](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
 [![JavaScript logo](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript logo](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![React logo](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![Vue.js logo](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-[![Tailwind CSS logo](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-[![Node.js logo](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![Java logo](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
 [![Amazon DynamoDB logo](https://skillicons.dev/icons?i=dynamodb)](https://aws.amazon.com/dynamodb/)
-[![MongoDB logo](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![PostgreSQL logo](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![SQLite logo](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/)
-[![MySQL logo](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Git logo](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
 ## Stats 📊
@@ -34,6 +32,8 @@
 
 ## Recently played 🎶
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=riljvn43h9v2irxpgffe9j909&count=5&unique=true)](https://open.spotify.com/user/riljvn43h9v2irxpgffe9j909)
-
-[![snake](https://github.com/emunozce/emunozce/blob/main/assets/snake.svg)](https://github.com/emunozce)
+<div align="center">
+  <a href="https://open.spotify.com/user/riljvn43h9v2irxpgffe9j909">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=riljvn43h9v2irxpgffe9j909&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
