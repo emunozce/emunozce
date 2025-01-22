@@ -8,6 +8,7 @@
 
 [![Amazon Web Services logo](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 [![Azure logo](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
+[![GCP logo](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
 [![Kubernetes logo](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
 [![Docker logo](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![Linux logo](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
